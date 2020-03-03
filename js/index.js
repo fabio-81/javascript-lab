@@ -46,4 +46,5 @@ console.log(`The area is `+ pi *(circleRadius*circleRadius))
 
 let celsiusTemp = 30;
 console.log(celsiusTemp +`C`+` is `+ (celsiusTemp * (9/5) + 32) +`F`);
-
+let farenheitTemp = 86;
+console.log(farenheitTemp +`F` + ` is ` + ((farenheitTemp - 32) * (5/9)) + `C`)
